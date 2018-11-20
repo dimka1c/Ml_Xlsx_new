@@ -1,0 +1,15 @@
+{
+    "name": "dimka1c/omega-creater-ml-dnepr",
+    "type": "n",
+    "license": "n",
+    "require": {
+        "PHPOffice/PHPExcel": "^1.8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "vendor\\": "vendor",
+	    "Controller\\": "Controller",
+	    "Model\\": "Model"
+        }
+    }
+}

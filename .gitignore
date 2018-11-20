@@ -1,0 +1,8 @@
+# phpstorm project files
+.idea
+
+# attachments files
+/.files
+
+# composer vendor phpoffice dir
+/vendor/phpoffice
